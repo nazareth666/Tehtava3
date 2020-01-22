@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tehtava3</string>
+    <string name="button">Add</string>
+    <string name="button_delete">Remove</string>
+</resources>
