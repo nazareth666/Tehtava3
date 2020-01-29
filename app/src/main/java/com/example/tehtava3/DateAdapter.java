@@ -44,7 +44,6 @@ public class DateAdapter extends ArrayAdapter<Date> {
             v.findViewById(R.id.button2).setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-
                     lista.remove(position);
                     notifyDataSetChanged();
                 }
